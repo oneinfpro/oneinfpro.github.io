@@ -4,11 +4,11 @@
 
 ### Table of contents:
 
-[字母 Letter](Letter.md) = `Aa - Zz`
+[字母 Letter](字母_Letter.md) = `Aa - Zz`
 
-[Vowel](Vowel.md) = `a`,`u`,`ei`,`ou`...
+[元音_Vowels](元音_Vowels.md) = `a`,`u`,`ei`,`ou`...
 
-[基本词 Basic words](Basic_words.md)
+[基本词 Basic words](基本词_Basic_words.md)
 
 - [vc_1S](vc_1S.md) = `ab`, `ef`, `iz`...
 - [cv_1S](cv_1S.md) = `ba`, `fe`, `zi`...
