@@ -10,12 +10,13 @@
 
 [基本词 Basic words](基本词_Basic_words.md)
 
-- [vc_1S](vc_1S.md) = `ab`, `ef`, `iz`...
 - [cv_1S](cv_1S.md) = `ba`, `fe`, `zi`...
+- cc_1S = `bab`,`fef`,`ziz`...
+- [vc_1S](vc_1S.md) = `ab`, `ef`, `iz`...
 - [vv_2S](vv_2S.md) = `aba`, `efe`, `izi`...
 - [vc_2S](vc_2S.md) = `abab`, `efef`, `iziz`...
 
-[合成词 Compound word](合成词_Compound_word.md) = (HO) + (MA) + (A) = (HOMAA)
+[合成词 Compound word](合成词_Compound_word.md) = `hzomua` (`hzo + mu + a`)
 
 - [后缀 Suffix](后缀_Suffix.md)
 - [反义词 Opposites](反义词_Opposites.md)
@@ -59,13 +60,20 @@
 
 5. Scientific: Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow science. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
 
+</br>
+
 ###### Why don't use existing natural language or conlang eg: Esperanto & Ido instead of creating a new language from scratch?
 
 - Every language has its own pros & cons, so we'd like to make good use of all the pros & get rid of the unnecessities.
 
-###### Why did you allow people to copy & distribute your hard work here?
+#### Why did you allow people to copy & distribute your hard work here?
 
 - We believe a language is meant to unify people via communication, instead of discrimination. If our project failed for whatever reasons (political, social, or simply misunderstanding), we hope that your projects may make it for us. You can simply fork it & create a new branch from our project.
+
+### Why should I care about this project?
+
+- This will save lives. All conflicts happened & unfortunately is still happening due to discriminations (race, gender, sexual orientation, social class, nationality etc) as though we are not humans (the same species). By having an universal secondary language, we can prevent war while preserving our respective mother tongue & cultures.
+- This is for love.
 
 ---
 
