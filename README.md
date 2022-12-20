@@ -60,11 +60,13 @@
 
 5. Scientific: Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow science. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
 
-</br>
+<br>
 
 ###### Why don't use existing natural language or conlang eg: Esperanto & Ido instead of creating a new language from scratch?
 
 - Every language has its own pros & cons, so we'd like to make good use of all the pros & get rid of the unnecessities.
+
+#### <br>
 
 #### Why did you allow people to copy & distribute your hard work here?
 
