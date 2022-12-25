@@ -11,10 +11,10 @@
 [基本词 Basic words](基本词_Basic_words.md)
 
 - [cv_1S](cv_1S.md) = `ba`, `fe`, `zi`...
-- cc_1S = `bab`,`fef`,`ziz`...
+- cc_1S = `bab`,`fef`,`ziz`, `lian`, `liang`...
 - [vc_1S](vc_1S.md) = `ab`, `ef`, `iz`...
 - [vv_2S](vv_2S.md) = `aba`, `efe`, `izi`...
-- [vc_2S](vc_2S.md) = `abab`, `efef`, `iziz`...
+- [vc_2S](vc_2S.md) = `abab`, `efef`, `iziz`, `olian`, `uliang`...
 
 [合成词 Compound word](合成词_Compound_word.md) = `hzomua` (`hzo + mu + a`)
 
@@ -35,6 +35,7 @@
 [常用词_Commonly_words](常用词_Commonly_words.md)
 
 [词库_Vocabulary](词库_Vocabulary.md)
+- [[科学_Science]]
 
 [词典_Dictionary](词典_Dictionary.md)
 
@@ -44,13 +45,15 @@
 
 [标点符号_Punctuation](标点符号_Punctuation.md)
 
+[音译词_Transliterated_word](音译词_Transliterated_words.md)
+
 [语气词_Interjection](语气词_Interjection.md)
 
 ---
 
 ## 设计哲理 Design philosophy:
 
-1. Easy: A well-designed language should be easy to learn (especially for zero-beginner).
+1. [Easy](简易_Simplicity.md): A well-designed language should be easy to learn (especially for zero-beginner).
 
 2. Unambiguous meaning & pronunciation. Every word has only 1 way to pronounce it. Every sentence has only 1 meaning without ambiguity. This should make immediate sense. If a sentence has more than 1 meaning, it is called a buggy sentence which can be fixed by changing or enforcing words or the entire grammar rules.
 
@@ -58,7 +61,7 @@
 
 4. Creative: Users can have fun in creating new words.  
 
-5. Scientific: Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow science. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
+5. Scientific: Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow scientists. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
 
 #### <br>
 
