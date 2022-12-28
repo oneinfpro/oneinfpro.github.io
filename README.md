@@ -1,4 +1,4 @@
-### [test6](test6.md)
+### [h3](zz/test6.md#h3)
 
 ###### What is this project about?
 
