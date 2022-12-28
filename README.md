@@ -1,3 +1,4 @@
+### [test2](test2.md)
 ###### What is this project about?
 
 ### u2l = [Universal 2nd (Secondary) Language 通用语](语言名称_Meaningful_name.md)
@@ -61,7 +62,7 @@
 
 4. Creative: Users can have fun in creating new words.  
 
-5. [Scientific](科学_Science): Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow scientists. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
+5. [Scientific](科学_Science.md): Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow scientists. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc. Academic scholars & scientists could use this language to communicate with each other.
 
 #### <br>
 
